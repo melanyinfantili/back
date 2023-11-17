@@ -1,0 +1,57 @@
+/* 
+font-family: 'Open Sans', sans-serif;
+*/
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    line-height: 10px;
+}
+
+header {
+    background-color: blanchedalmond;
+    margin-bottom: 5px
+}
+
+header h1 {
+    color: pink;
+    font-size: 90px;
+    font-weight: 100;
+    display: inline-block;
+    margin-left: 10px;
+
+
+}
+
+
+
+footer {
+    background-color: lightcoral;
+    clear: both;
+    color: grey;
+    text-align: center;
+    padding: 5px 0;
+    margin-top: 25px;
+}
+
+
+
+.holder {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+h2 {
+    color: hotpink;
+    font-weight: 300;
+}
+
+.mundofitness {
+    width: 75%;
+    padding-right: 10px;
+    box-sizing: border-box;
+    line-height: 25px;
+
+
+}
+
